@@ -1,2 +1,2 @@
-# tdd-bank2
+# bank-tdd
 Created with CodeSandbox
